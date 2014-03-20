@@ -22,7 +22,7 @@ use RecursiveIteratorIterator;
  *     ->exclude('temp');
  * </code>
  */
-class Finder extends Nette\Object implements \IteratorAggregate, \Countable
+class Finder implements \IteratorAggregate, \Countable
 {
 	/** @var array */
 	private $paths = [];
