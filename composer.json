@@ -14,8 +14,7 @@
 		}
 	],
 	"require": {
-		"php": ">=5.4.4",
-		"nette/utils": "~2.2"
+		"php": ">=5.4.4"
 	},
 	"require-dev": {
 		"nette/tester": "~1.4"
